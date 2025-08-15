@@ -1,0 +1,6 @@
+[submodule "trophy-fullstack-frontend"]
+	path = trophy-fullstack-frontend
+	url = https://github.com/abhinavbavos/trophy-fullstack-frontend.git
+[submodule "trophy-fullstack-backend"]
+	path = trophy-fullstack-backend
+	url = https://github.com/abhinavbavos/trophy-fullstack-backend.git
