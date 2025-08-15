@@ -3,9 +3,11 @@
 This repository is a **parent project** that contains two Git submodules (frontend and backend).  
 To make sure everything is pulled correctly, please use the following commands:
 
+```bash
 git clone https://github.com/abhinavbavos/Tijo.git
 cd Tijo
 git submodule update --init --recursive
+
 --------------------------------------------------------------------------------------------------------------------
 
 🔄 Pulling updates (including submodules)
